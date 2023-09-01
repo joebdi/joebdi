@@ -1,4 +1,14 @@
-Hi there 👋 , I'm joe aka Pomba boy 
+The crackman says hello to you ,
+
+Damn , 🤔 i think i should  introduce  myself. My  parents gave me Kenese alain joel  as my name on this 
+earth but you can call me The Crackma if it is too hard to pronounce.
+
+I love to crack math puzzles indeed.
+
+- 🔭 I’m currently working on a trading bot i think i am going to call him The God's Arrow
+- 🌱 I’m currently learning Reat native and the world of Javascript
+- 😄 Pronouns: General Joe
+                                                                                              
 
 <!--
 **joebdi/joebdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
