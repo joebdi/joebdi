@@ -1,7 +1,8 @@
 The crackman says hello to you ,
 
-Damn , 🤔 i think i should  introduce  myself. My  parents gave me Kenese alain joel  as my name on this 
-earth but you can call me The Crackma if it is too hard to pronounce.
+Damn , 🤔 i think i should  introduce  myself.
+My  parents gave me Kenese alain joel  as my name on this  earth,
+but you can call me The Crackman if it is too hard to pronounce.
 
 I love to crack math puzzles indeed.
 
