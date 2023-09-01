@@ -5,7 +5,7 @@ earth but you can call me The Crackma if it is too hard to pronounce.
 
 I love to crack math puzzles indeed.
 
-- 🔭 I’m currently working on a trading bot i think i am going to call him The God's Arrow
+- 🔭 I’m currently working on a trading bot i think i am going to call it The God's Arrow
 - 🌱 I’m currently learning Reat native and the world of Javascript
 - 😄 Pronouns: General Joe
                                                                                               
